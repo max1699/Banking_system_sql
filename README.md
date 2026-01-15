@@ -1,0 +1,7 @@
+"# ?? Banking System SQL" 
+"## SQL Server uchun bank tizimi" 
+"" 
+"### Fayllar:" 
+"- **Banking_System_full.sql** - To'liq database (766 qator)" 
+"- **bank.sql** - Oddiy versiya" 
+"" 
